@@ -14,7 +14,7 @@
     <modules>
         <module>cars-domain</module>
         <module>cars-application</module>
-        <!--<module>cars-webapp</module>-->
+        <module>cars-webapp</module>
     </modules>
 
 
